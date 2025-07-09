@@ -8,13 +8,13 @@ Notification:Notify(
 )
 wait(1)
 Notification:Notify(
-    {Title = "Man it've so long since i quited", Description = "idk maybe 7 years? i don' exactly remember XD"},
+    {Title = "Gui made by 007n70 or the_secondblueman", Description = "Nobody gives a fuck bro :|"},
     {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "image"},
     {Image = "http://www.roblox.com/asset/?id=6023426923", ImageColor = Color3.fromRGB(255, 84, 84)}
 )
 wait(1)
 Notification:Notify(
-    {Title = "Thanks for using my script, i try my best :D", Description = "HEAVILY RESPECT TO THE SCRIPT OWNERS!!! Loading..."},
+    {Title = "Thanks for using my script, i've try my best :D", Description = "HEAVILY RESPECT TO THE SCRIPT OWNERS!!! Loading..."},
     {OutlineColor = Color3.fromRGB(80, 80, 80),Time = 5, Type = "default"}
 )
 
